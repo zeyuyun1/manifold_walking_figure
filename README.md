@@ -1,9 +1,9 @@
 # GIF Visualizations
 
-## Extrapolate Digit
+## Extrapolate Digit (figure 4 animated)
 ![Extrapolate Digit](figures/extrapolate_digit.gif)
 
-## Extrapolate Gesture
+## Extrapolate Gesture (figure 5 animated)
 ![Extrapolate Gesture](figures/extrapolate_gesture.gif)
 
 ## Funky Walk
